@@ -1,17 +1,17 @@
 <ins>**this is vibe-coded. made entirely with claude.**</ins>
 
-# digain.. releases
+# looksie..
 
-builds of digain.. (a sample browser plugin + sampler rack). the app checks here once a day for updates.
+builds of looksie.. (a sample browser plugin + sampler rack). the app checks here once a day for updates.
 
 ## which file do i download?
 
-open the [newest release](https://github.com/adrnagain/digain-releases/releases) for your system and download the zip under **assets**:
+open the [newest release](https://github.com/adrnagain/looksie/releases) for your system and download the zip under **assets**:
 
 | your computer | download |
 |---|---|
-| **windows 10 / 11** (64-bit) | `digain-vX-bN-Windows-10-11-64bit.zip` |
-| **mac with apple silicon** (m1–m4), macos 12 or newer | `digain-vX-bN-Mac-AppleSilicon-macOS12-or-newer.zip` |
+| **windows 10 / 11** (64-bit) | `looksie-vX-bN-Windows-10-11-64bit.zip` |
+| **mac with apple silicon** (m1–m4), macos 12 or newer | `looksie-vX-bN-Mac-AppleSilicon-macOS12-or-newer.zip` |
 
 intel macs and linux aren't supported yet.
 
